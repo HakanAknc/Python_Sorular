@@ -1,0 +1,17 @@
+a = {"AD":"HAKAN","SOYAD":"AKINCI","NO":"21410051038","DERS":"ALGORİTMA"}
+print(a)
+
+b = {"İSİM":"HAKAN","SOYİSİM":"AKINCI","NO":"21410051038","DERS":"ALGORİTMA"}
+print(b)
+
+c = {"AD":"HAKAN","SOYAD":"AKINCI","NO":"21410051038","DERS":"ALGORİTMA"}
+print(c)
+
+d = {"İSİM":"HAKAN","SOYİSİM":"AKINCI","NO":"21410051038","DERS":"ALGORİTMA"}
+print(d)
+
+e = {"AD":"HAKAN","SOYAD":"AKINCI","NO":"21410051038","DERS":"ALGORİTMA"}
+print(e)
+
+f = {"İSİM":"HAKAN","SOYAD":"AKINCI","NO":"21410051038","DERS":"ALGORİTMA"}
+print(f)
